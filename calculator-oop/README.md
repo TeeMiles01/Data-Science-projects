@@ -1,4 +1,4 @@
-Advanced Calculator (OOP)
+
 
 A simple command-line calculator built in Python using object-oriented programming. It supports basic arithmetic as well as advanced operations (exponentiation, square root, logarithm), with error handling for invalid operations and non-numeric input.
 
