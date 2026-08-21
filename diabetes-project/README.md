@@ -21,6 +21,8 @@ This project generates a comprehensive profiling report for the diabetes dataset
   - Warnings for data quality issues (e.g. high cardinality, skewness, zeros)
 - Report can be viewed inline in the notebook or exported as a standalone HTML file
 
+The dataset used in this project is available here: https://drive.google.com/file/d/1m7005DlhJE3xe42sy8nMV2Xop2GXw3tF/view
+
 ## Requirements
 
 - Python 3.x
